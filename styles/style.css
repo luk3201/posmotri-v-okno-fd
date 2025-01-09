@@ -207,7 +207,7 @@ ol {
 
 .content__video-card-description {
   padding-top: 3px;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 16.2px;
